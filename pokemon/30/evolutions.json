@@ -1,0 +1,10 @@
+[
+  {
+    "evolves_from": 29,
+    "trigger": "at level 16"
+  },
+  {
+    "evolves_into": 31,
+    "trigger": "use Moon Stone"
+  }
+]

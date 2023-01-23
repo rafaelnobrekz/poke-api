@@ -1,0 +1,10 @@
+[
+  {
+    "evolves_from": 43,
+    "trigger": "at level 21"
+  },
+  {
+    "evolves_into": 45,
+    "trigger": "use Leaf Stone"
+  }
+]

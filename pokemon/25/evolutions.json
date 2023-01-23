@@ -1,0 +1,10 @@
+[
+  {
+    "evolves_from": 172,
+    "trigger": "high Friendship"
+  },
+  {
+    "evolves_into": 26,
+    "trigger": "use Thunder Stone"
+  }
+]
