@@ -12,7 +12,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/001.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/001.png"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/002.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/002.png"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/003.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/003.png"
   },  
   {
     "id": 4,
@@ -53,7 +53,7 @@
         "identifier": "fire"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/004.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/004.png"
   },
   {
     "id": 5,
@@ -64,7 +64,7 @@
         "identifier": "fire"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/005.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/005.png"
   },  
   {
     "id": 6,
@@ -79,7 +79,7 @@
         "identifier": "flying"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/006.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/006.png"
   },
   {
     "id": 7,
@@ -90,7 +90,7 @@
         "identifier": "water"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/007.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/007.png"
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
         "identifier": "water"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/008.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/008.png"
   },
   {
     "id": 9,
@@ -112,7 +112,7 @@
         "identifier": "water"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/009.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/009.png"
   },  
   {
     "id": 10,
@@ -123,7 +123,7 @@
         "identifier": "bug"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/010.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/010.png"
   },
   {
     "id": 11,
@@ -134,7 +134,7 @@
         "identifier": "bug"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/011.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/011.png"
   },
   {
     "id": 12,
@@ -149,7 +149,7 @@
         "identifier": "flying"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/012.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/012.png"
   },
   {
     "id": 13,
@@ -164,7 +164,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/013.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/013.png"
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/014.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/014.png"
   },
   {
     "id": 15,
@@ -194,7 +194,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/015.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/015.png"
   },
   {
     "id": 16,
@@ -209,7 +209,7 @@
         "identifier": "flying"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/016.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/016.png"
   },
   {
     "id": 17,
@@ -224,7 +224,7 @@
         "identifier": "flying"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/017.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/017.png"
   },
   {
     "id": 18,
@@ -239,7 +239,7 @@
         "identifier": "flying"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/018.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/018.png"
   },
   {
     "id": 19,
@@ -250,7 +250,7 @@
         "identifier": "normal"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/019.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/019.png"
   },
   {
     "id": 20,
@@ -261,7 +261,7 @@
         "identifier": "normal"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/020.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/020.png"
   },
   {
     "id": 21,
@@ -276,7 +276,7 @@
         "identifier": "flying"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/021.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/021.png"
   },
   {
     "id": 22,
@@ -291,7 +291,7 @@
         "identifier": "flying"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/022.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/022.png"
   },
   {
     "id": 23,
@@ -302,7 +302,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/023.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/023.png"
   },
   {
     "id": 24,
@@ -313,7 +313,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/024.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/024.png"
   },  
   {
     "id": 25,
@@ -324,7 +324,7 @@
         "identifier": "electric"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/025.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/025.png"
   },
   {
     "id": 26,
@@ -335,7 +335,7 @@
         "identifier": "electric"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/026.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/026.png"
   },  
   {
     "id": 27,
@@ -346,7 +346,7 @@
         "identifier": "ground"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/027.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/027.png"
   },
   {
     "id": 28,
@@ -357,7 +357,7 @@
         "identifier": "ground"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/028.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/028.png"
   },
   {
     "id": 29,
@@ -368,7 +368,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/029.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/029.png"
   },
   {
     "id": 30,
@@ -379,7 +379,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/030.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/030.png"
   },
   {
     "id": 31,
@@ -394,7 +394,7 @@
         "identifier": "ground"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/031.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/031.png"
   },
   {
     "id": 32,
@@ -405,7 +405,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/032.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/032.png"
   },
   {
     "id": 33,
@@ -416,7 +416,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/033.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/033.png"
   },
   {
     "id": 34,
@@ -431,7 +431,7 @@
         "identifier": "ground"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/034.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/034.png"
   },
   {
     "id": 41,
@@ -446,7 +446,7 @@
         "identifier": "flying"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/041.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/041.png"
   },
   {
     "id": 42,
@@ -461,7 +461,7 @@
         "identifier": "flying"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/042.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/042.png"
   },
   {
     "id": 43,
@@ -476,7 +476,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/043.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/043.png"
   },
   {
     "id": 44,
@@ -491,7 +491,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/044.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/044.png"
   },
   {
     "id": 45,
@@ -506,7 +506,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/045.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/045.png"
   },
   {
     "id": 46,
@@ -521,7 +521,7 @@
         "identifier": "grass"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/046.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/046.png"
   },
   {
     "id": 47,
@@ -536,7 +536,7 @@
         "identifier": "grass"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/047.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/047.png"
   },
   {
     "id": 48,
@@ -551,7 +551,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/048.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/048.png"
   },
   {
     "id": 49,
@@ -566,7 +566,7 @@
         "identifier": "poison"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/049.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/049.png"
   },
   {
     "id": 50,
@@ -577,7 +577,7 @@
         "identifier": "ground"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/050.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/050.png"
   },
   {
     "id": 51,
@@ -588,7 +588,7 @@
         "identifier": "ground"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/051.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/051.png"
   },
   {
     "id": 172,
@@ -599,6 +599,6 @@
         "identifier": "electric"
       }
     ],
-    "image_url": "https://pogoapi.net/sprites/172.png"
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/172.png"
   }
 ]
