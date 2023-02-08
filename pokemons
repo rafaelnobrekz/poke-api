@@ -600,5 +600,26 @@
       }
     ],
     "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/172.png"
+  },
+  {
+    "id": 150,
+    "identifier": "mewtwo",
+    "types": [
+      {
+        "id": 10,
+        "identifier": "psychic"
+      }
+    ],
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/150.png"
+  },{
+    "id": 151,
+    "identifier": "mew",
+    "types": [
+      {
+        "id": 10,
+        "identifier": "psychic"
+      }
+    ],
+    "image_url": "https://raw.githubusercontent.com/rafaelnobrekz/poke-api/master/sprites/151.png"
   }
 ]
